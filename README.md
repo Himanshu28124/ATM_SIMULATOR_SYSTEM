@@ -26,7 +26,7 @@ Steps
 
 Clone the Repository:
 
-git clone https://github.com/eigen04/ATM_SIMULATOR_SYSTEM.git
+git clone https://github.com/Himanshu28124/ATM_SIMULATOR_SYSTEM
 
 Import the Project: Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse).
 
